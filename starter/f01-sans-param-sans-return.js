@@ -9,6 +9,11 @@
 	2. Exécuter la fonction
 	3. Valeur de retour de la fonction
 */
+function coucou(){
+    console.log('Coucou');
+}
+
+coucou();
 /*
 DÉCLARER la fonction = CRÉER la fonction :
 On crée un conteneur qui a un identifiant (le nom de la fonction)
