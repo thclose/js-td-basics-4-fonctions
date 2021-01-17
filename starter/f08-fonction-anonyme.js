@@ -42,3 +42,13 @@
 - L'utiliser pour saluer Thomas dans la console
 */
 
+
+
+
+
+const bonjour = (prenom) => {
+    const message = 'Bonjour, ${prenom} !'
+    return message;
+}
+
+console.log(bonjour('Thomas'))
